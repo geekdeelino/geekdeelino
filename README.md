@@ -1,4 +1,9 @@
 ### Hi there 👋
+Welcome to my Github Profile, Don't worry it's interesting here
+
+## 💬 About Me
+I'm Ayorinde Ayodeji known as Geek Deelino
+
 
 <!--
 **geekdeelino/geekdeelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
