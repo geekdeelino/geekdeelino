@@ -2,7 +2,7 @@
 Welcome to my Github Profile, Don't worry it's interesting here
 
 ## 💬 About Me
-I'm Ayorinde Ayodeji known as Geek Deelino
+I'm Ayodeji Ayorinde
 
 
 <!--
